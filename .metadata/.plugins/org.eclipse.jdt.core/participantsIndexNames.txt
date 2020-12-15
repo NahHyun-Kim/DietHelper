@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\79456859.index
+\DietHelper\src
+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3802392547.index
+\DietHelper\src
+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\348903730.index
+\DietHelper\src
+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3624472666.index
+\DietHelper\src
+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2114408702.index
+\DietHelper\src
+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1931478434.index
+\DietHelper\src
