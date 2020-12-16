@@ -5,4 +5,3 @@ INDEX VERSION 1.4+C:\JavaWorkSpace\DietHelperFull\.metadata\.plugins\org.eclipse
 2376915713.index
 3722797947.index
 1489291661.index
-79456859.index
